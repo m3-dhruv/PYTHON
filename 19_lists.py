@@ -1,3 +1,4 @@
+# lists are mutable
 l1 = [0, 1, 2, "dhruv", True]
 print(l1)
 
