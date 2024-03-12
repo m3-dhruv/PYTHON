@@ -1,3 +1,5 @@
+# write a program to print a grater number above a, b or c 
+
 a = int(input("Enter a number : "))
 b = int(input("Enter b number : "))
 c = int(input("Enter c number : "))
