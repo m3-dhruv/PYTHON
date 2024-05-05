@@ -1,1 +1,0 @@
-print(MyClass.class_variable)
